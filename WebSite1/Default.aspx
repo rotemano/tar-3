@@ -10,6 +10,9 @@
     <form id="form1" runat="server">
         <div>
             <asp:CheckBox ID="CheckBox1" runat="server" />
+            <asp:FileUpload ID="FileUpload1" runat="server" />
+            <asp:HyperLink ID="HyperLink1" runat="server"></asp:HyperLink>
+            <asp:Label ID="Label1" runat="server" Text="Label"></asp:Label>
         </div>
     </form>
 </body>
