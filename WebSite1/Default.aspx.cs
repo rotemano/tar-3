@@ -12,5 +12,7 @@ public partial class _Default : System.Web.UI.Page
         string str = "we succses !!!";
 
         str = "seconde try2 !!!";
+
+        str = "try 3 !!!!!!"; 
     }
 }
