@@ -13,6 +13,15 @@
             <asp:FileUpload ID="FileUpload1" runat="server" />
             <asp:HyperLink ID="HyperLink1" runat="server"></asp:HyperLink>
             <asp:Label ID="Label1" runat="server" Text="Label"></asp:Label>
+
+
+
+
+
+            <asp:ImageMap ID="ImageMap1" runat="server"></asp:ImageMap>
+
+
+
         </div>
     </form>
 </body>
