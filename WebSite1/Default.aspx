@@ -11,6 +11,7 @@
         <div>
             <asp:CheckBox ID="CheckBox1" runat="server" />
             <asp:FileUpload ID="FileUpload1" runat="server" />
+            <asp:HyperLink ID="HyperLink1" runat="server"></asp:HyperLink>
         </div>
     </form>
 </body>
